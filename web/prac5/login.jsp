@@ -15,7 +15,6 @@
     }else{
         //do nothing since msg is null when the page first loaded.
     }
-
 %>
 <form action="verifyUser.jsp" name="form1" method="post">
      User: <input type="text" name="loginid" size="32"><br>
